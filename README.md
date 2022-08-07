@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Kareem Gamal
-- 👀 I’m interested in Date Science 
+- 👀 I’m interested in Date Science and Data Analysis
 - 🌱 I’m currently learning Date Science 
 - 📫  To reach me, please feel free to contact me via email at karem.gamal.hussien@gmail.com
 
